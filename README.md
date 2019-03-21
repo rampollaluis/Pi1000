@@ -6,13 +6,13 @@ If you wish to run your own Twitter bot with this code, or your own version of i
 
 You will need `node` and `npm` installed on your machine.
 
-Installation:
+**Installation**:
 
 `npm install`
 
 `npm update`
 
-To Start:
+**To Start**:
 
 `npm start`
 
@@ -26,4 +26,5 @@ Having jumped right into React and Angular after learning HTML and CSS without l
 Since this was my first time working with an API, I decided to install the `Twit` npm package to make my life a little bit easier first time around while working with the Twitter API. I also used a simple API to get the digits for Pi that you can read more about [here](https://helloacm.com/pi/).
 
 I believe there are probably better ways to achieve what I have made here (I'm not even sure what will happen if the server goes offline for a few minutes), but I just wanted to test out the waters :)
-In the end I learned a lot about
+
+In the end I had a lot of fun and learned a lot about all the technologies used.
