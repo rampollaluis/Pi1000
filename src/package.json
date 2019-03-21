@@ -1,0 +1,16 @@
+{
+  "name": "pibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pibot.js",
+  "scripts": {
+    "start": "node pibot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "twit": "^2.2.11",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
